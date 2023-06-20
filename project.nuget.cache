@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9M5NgCbulolXDPgrOmgvF3SB2PHti3bnusP3l1a/dxCQ4n55l0QdW1SYqd0u+q8Q8V89EEUPVusLcXrCh89Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\15703\\source\\repos\\Sophie\\Sophie\\Sophie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15703\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
